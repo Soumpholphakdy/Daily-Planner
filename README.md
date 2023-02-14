@@ -14,7 +14,7 @@ This daily planner will allow users a place to write down their daily tasks, app
 
 ## Link
 
-### <ins>[Daily Planner]()</ins>
+### <ins>[Daily Planner](https://soumpholphakdy.github.io/Daily-Planner/)</ins>
 
 <br>
 
